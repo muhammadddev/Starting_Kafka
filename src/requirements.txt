@@ -1,5 +1,5 @@
 autopep8==1.5
-avro==1.9.1
+avro==1.11.3
 avro-python3==1.9.1
 certifi==2023.7.22
 chardet==3.0.4
